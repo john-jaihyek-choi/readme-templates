@@ -102,7 +102,9 @@ Body section for About Project
 | **Backend**  | [![EC2][AWSEC2]][AWSEC2-url] [![Node.js][Node.js]][Node.js-url] [![Express.js][Express.js]][Express.js-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] |
 | **Frontend** | [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]                                                                            |
 
-![](images/architecture-diagram.png)
+<p align="center">
+  <img src="images/architecture-diagram.png" alt="Description">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
