@@ -17,7 +17,7 @@
     <a href="https://github.com/john-jaihyek-choi"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://johnjhc.com">Live Demo</a>
+    <a href="https://johnjhc.com" target="_blank">Live Demo</a>
     ·
     <a href="https://github.com/john-jaihyek-choi/readme-templates/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -69,7 +69,9 @@ Body section for Update
 
 ## Preview
 
-![](server/public/images/finder.gif)
+<p align="center">
+  <img src="./images/preview.png" alt="Description">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
