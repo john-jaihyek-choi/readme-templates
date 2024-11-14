@@ -12,9 +12,8 @@
 <div align="center">
   <img src="images/logo.png" alt="Logo" height="100">
 
-  <p align="center">
-    Repo Name
-    <br />
+  <div align="center">
+    <h3>Repo Name</h3>
     <a href="https://github.com/john-jaihyek-choi"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -23,7 +22,7 @@
     <a href="https://github.com/john-jaihyek-choi/readme-templates/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/john-jaihyek-choi/readme-templates/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
+  </div>
 </div>
 
 <!-- UPDATE -->
