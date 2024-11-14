@@ -14,7 +14,7 @@
 
   <div align="center">
     <h3>Repo Name</h3>
-    <a href="https://github.com/john-jaihyek-choi"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/john-jaihyek-choi/readme-templates"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://johnjhc.com" target="_blank">Live Demo</a>
